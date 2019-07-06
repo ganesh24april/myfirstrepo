@@ -47,7 +47,7 @@
 		<tr>
 			<td></td>
 			<td><form:checkbox path="mailingList"
-				label="Would you like to join our mailinglist now Jyothi?" /></td>
+				label="Would you like to join our mailinglist now Aaavya?" /></td>
 		</tr>
 		<tr>
 			<td colspan="2"><input type="submit"></td>
