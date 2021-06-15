@@ -1,0 +1,9 @@
+{
+	"name": "newgitconfigdf1",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1cd523c9-04f6-42f9-b5e4-cbd8db66fe33",
+		"tenantId": "5764cb9a-200f-450f-b2dc-8eb7dc4321a7"
+	}
+}
